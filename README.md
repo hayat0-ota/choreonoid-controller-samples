@@ -16,8 +16,8 @@ $ git clone (this-repository-url) .
 ```
 
 # Provided simple-controllers in this repository
-## Beanus2_JointAngleContrtoller
-- Provide random command values in the joint space to Beanus2.
+## PA10_JointAngleContrtoller
+- Provide random command values in the joint space to PA10.
 - Change the joint angles at the following four time intervals during the simulation.
   - t1 = 0.0 ~ 2.5[s]
   - t2 = 2.5 ~ 5.0[s]
